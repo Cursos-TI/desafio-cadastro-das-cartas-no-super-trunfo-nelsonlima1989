@@ -85,7 +85,7 @@ int main(){
     printf("PIB per capta: %.2f\n\n\n", pibpc1);
     
 
- //carta2
+    //carta2
     printf("\nCarta 2: \n Estado: %c\n", estado2);
     printf("Codigo: %s\n", codigo2);
     printf("Nome da cidade: %s\n", nome_cidade2);
