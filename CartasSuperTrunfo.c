@@ -46,7 +46,7 @@ int main(){
     printf("Numero de pontos turisticos: ");
     scanf("%d", &pontos_tur1);
 
-    printf("\n\nAgora vamos preencher os dados da seugunda carata!!\n\n\n");
+    printf("\n\nAgora vamos preencher os dados da seugunda carta!!\n\n\n");
     printf("Estado: ");
     scanf(" %c", &estado2);
 
